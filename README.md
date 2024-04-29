@@ -1,6 +1,5 @@
 # The-Heart-Within
 Videoigra razvijena u svrhu kolegija Razvoj računalnih igara. Iz rada dobiveni svi bodovi.
-
 <br><br> Igriva verzija.
 <br><br>
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

@@ -1,6 +1,6 @@
 # The-Heart-Within
 Videoigra razvijena u svrhu kolegija Razvoj računalnih igara. Iz rada dobiveni svi bodovi.
-<br><br> Igriva verzija.
+<br><br> Dokumentacija je dostupna na ovom repozitoriju. Također su dostupni C# datoteke koje sam razvio u svrhu ovog projekta. Za igrivu verziju me kontaktirajte i poslat ću Vam ju.
 <br><br>
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
